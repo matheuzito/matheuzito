@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @matheuzito
-- 👀 I’m interested in Programming...
-- 🌱 I’m currently learning ASP.NET Core but, in the future I'm going study about Ruby...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💻 Developer Web PL .NET CORE
+- Coding is the way! 😎
 
 <!---
 matheuzito/matheuzito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Matheuzito's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuzito&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuzito&layout=compact&theme=tokyonight)
